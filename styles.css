@@ -58,6 +58,14 @@ body {
 	min-height: 400px;
 }
 
+.list-container {
+	padding: 1em;
+}
+
+.list-titel {
+	padding-left: 0.5em;
+}
+
 .listing > li {
 	list-style: square;
 	padding: 0.5em 0;
